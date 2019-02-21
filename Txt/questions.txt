@@ -1,0 +1,41 @@
+20
+1 + 1 ?
+2
+Bulan Januari 31 hari ? [T/F]
+T
+Gitar senarnya 4 ? [T/F]
+F
+Apakah jumlah ginjal manusia ada 2 ? [T/F]
+T
+2 * 3 ?
+6
+Tahun berapa sekarang ?
+2018
+Apakah Bali termasuk bagian negara Indonesia ? [T/F]
+T
+Dalam satu tahun ada 12 bulan. [T/F]
+T
+ITB berada di Banten. [T/F]
+F
+Usia Indonesia saat ini adalah 30 tahun. [T/F]
+F
+Apakah nilai biner dari 31 adalah 11111 ? [T/F]
+T
+Apakah kaktus hidup di lingkungan yang lembap ? [T/F]
+F
+2 ^ 8 ?
+256
+Apakah sapi minum susu ? [T/F]
+F
+Kelelawar tidur di malam hari. [T/F]
+F
+Dari mana asal spaghetty ? [ITALI/PRANCIS]
+ITALI
+Bendera Indonesia berwarna merah dan putih. [T/F]
+T
+Satu hari terdapat 23 jam. [T/F]
+F
+Jumlah total jari pada manusia biasanya ada 20. [T/F]
+T
+13 + 7 ?
+20
